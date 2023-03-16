@@ -1,0 +1,3 @@
+[submodule "pytorch-semseg"]
+	path = pytorch-semseg
+	url = ./pytorch-semseg/
