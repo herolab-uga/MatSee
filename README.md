@@ -31,5 +31,5 @@ For further information, reach out to Dr. Ramviyas Parasuraman ramviyas@uga.edu
 https://hero.uga.edu/
 
 <p align="center">
-<img src="http://hero.uga.edu/wp-content/uploads/2021/04/herolab_newlogo_whitebg.png" width="300">
+<img src="https://hero.uga.edu/wp-content/uploads/2021/04/herolab_newlogo_whitebg.png" width="300">
 </p>
